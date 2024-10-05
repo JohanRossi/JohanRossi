@@ -18,7 +18,7 @@ Estudando programação a 2 anos, me aprimorando e evoluindo a cada vontade de a
 
 ### Experiência
 
-- Um ano atuado em uma pequena empresa desenvolvendo um aplicativo mobile, no frontend utilizando Flutter.
+- Um ano atuado em uma pequena empresa desenvolvendo um aplicativo mobile no frontend utilizando Flutter.
 
 ### Intenções
 
