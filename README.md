@@ -2,14 +2,18 @@
 
 ## Bio
 
-Estudando programação a 2 anos, me aprimorando e evoluindo a cada vontade de aprendizado.
+Estudando programação a 2 anos, me aprimorando e evoluindo a cada aprendizado.
 
 ## Habilidades
 
+- Proatividade
+- Comunicação
+- Aprendizado Rapido
 ### Linguagem de programação:
 
 - Python
 - C#
+- HTML
 
 ### Idiomas
 
