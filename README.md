@@ -2,13 +2,14 @@
 
 ## Bio
 
-Estudando programação a 2 anos, me aprimorando e evoluindo a cada aprendizado.
+Estudando programação a 3 anos, me aprimorando e evoluindo a cada aprendizado.
 
 ## Habilidades
 
 - Proatividade
 - Comunicação
 - Aprendizado Rapido
+
 ### Linguagem de programação:
 
 - Python
@@ -22,7 +23,7 @@ Estudando programação a 2 anos, me aprimorando e evoluindo a cada aprendizado.
 
 ### Experiência
 
-- Um ano atuado em uma pequena empresa desenvolvendo um aplicativo mobile no frontend utilizando Flutter.
+- Estagiario de Desenvolvedor de Software - Aual
 
 ### Intenções
 
