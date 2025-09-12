@@ -7,7 +7,7 @@
 
 ## 💪 Sobre mim  
 👨‍💻 Desenvolvedor **Estagiario**   
-🧠 Apaixonado por Tecnologia
+🧠 Apaixonado por Tecnologia \
 💪 Focado em Melhores Resultados
 
 ---
