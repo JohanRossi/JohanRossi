@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:ff1493&height=180&section=header&text=Lucas%20Anjos%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:ff1493&height=180&section=header&text=Johan%20Rossi%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
