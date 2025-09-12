@@ -11,7 +11,7 @@
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (FATEC)**
 - 📚 Sempre buscando aprender mais sobre **tecnologia**
 - 🧩 Gosto de resolver problemas e encarar novos desafios
-- 🎯 Foco atual: **JavaScript | React | Node.js | MySQL**
+- 🎯 Foco atual: **JavaScript | Node.js | MySQL**
 
 ---
 
