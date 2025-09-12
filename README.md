@@ -34,8 +34,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohanRossi&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&border_color=8B0000&border_radius=15)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanRossi
-&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000&border_color=8B0000&border_radius=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanRossi&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000&border_color=8B0000&border_radius=15)
 
 </div>
 
